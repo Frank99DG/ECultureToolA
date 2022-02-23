@@ -28,7 +28,8 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
 /*ciaooooooooooooo*/
         /*okokokokok*/
-        /*siuuuum*/
+        /*juve merda*/
+
         binding = ActivityMainBinding.inflate(getLayoutInflater());
         setContentView(binding.getRoot());
 
